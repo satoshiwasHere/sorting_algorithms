@@ -1,8 +1,7 @@
 #include "sort.h"
 /**
- * insertion_sort_list - alogrthmic function sorting 
- *     double linked list.
- *                       
+ * insertion_sort_list - alogrthmic function sorting,
+ * double linked list.
  * @list: doubly linked list pointer
  * Return: null
  */
